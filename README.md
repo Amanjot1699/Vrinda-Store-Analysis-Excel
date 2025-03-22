@@ -1,56 +1,42 @@
-# vrinda_store_analysis
+# Vrinda Store Sales Analysis
 
-Project Overview
+## Project Description  
+This project focuses on analyzing **sales data** for Vrinda Store using **Excel**. The goal is to extract insights related to **sales trends, customer demographics, and product performance**. Through **data cleaning, transformation, and visualization**, key business patterns were identified to enhance decision-making.
 
-This project focuses on analyzing the sales data of an e-commerce seller across multiple selling channels. The goal of the analysis is to derive actionable business insights that can help the company improve its sales performance. The analysis covers key metrics such as sales trends, top-performing sales channels, customer demographics, and product categories.
+## Project Objectives  
+- Compare **sales and orders** using a single chart.
+- Identify the **month with the highest sales and orders**.
+- Determine **which gender contributes more to purchases**.
+- Analyze **different order statuses**.
+- List the **top 10 states contributing to sales**.
+- Study the **relationship between age and gender based on number of orders**.
+- Identify **which sales channel contributes the most**.
+- Determine the **highest-selling product category**.
 
-Key Business Questions Answered:
+## Technologies & Tools Used  
+### Excel  
+- **Data Cleaning**: Removed duplicates, handled null values, and standardized formats.
+- **Pivot Tables & Pivot Charts**: Created dynamic reports and insights.
+- **Data Transformation**: Extracted relevant information such as months from date values and categorized age groups.
+- **Slicers & Filters**: Enabled interactive data exploration.
 
-Comparison of sales and orders using a single chart.
-Identification of the month with the highest sales and orders.
-Determining who purchased more—men or women.
-Classification of different order statuses.
-Listing the top 10 states contributing to sales.
-Understanding the relationship between age and gender based on number of orders.
-Analysis of which sales channel contributed the most.
-Identification of the highest-selling product category.
+## Key Features & Insights  
+- **Sales and Order Comparison**: A single chart visualizing the trend.
+- **Peak Sales Month**: Identified the highest revenue-generating period.
+- **Customer Demographics**: Gender-based purchase trends.
+- **Top Contributing States**: Regional analysis of sales performance.
+- **Channel-wise Sales Contribution**: Evaluation of e-commerce platforms driving revenue.
+- **Product Category Performance**: Identification of best-selling categories.
 
-Tools & Technologies Used
+## Key Learnings  
+- Improved **data cleaning and transformation** skills using Excel.
+- Gained hands-on experience in **pivot tables and visualization**.
+- Understood **customer purchase behavior** across different demographics.
+- Enhanced ability to **present sales insights effectively**.
 
-Excel: Data cleaning, processing, and pivot tables.
-Pivot Charts: Bar, pie, line, and column charts.
-Slicers: Used for dynamic filtering of data by months, selling channels, and product categories.
+## Conclusion  
+This project provided a comprehensive analysis of Vrinda Store’s sales data, offering actionable insights to optimize sales strategies and improve business performance. The findings help in making **data-driven decisions** for better revenue generation and customer targeting.
 
-Steps Performed
+## Connect with Me  
+LinkedIn: [Amanjot Singh](https://www.linkedin.com/in/amanjotsingh1699)
 
-1. Data Cleaning
-Removed duplicates and null values.
-Filtered the dataset to ensure accuracy and relevancy.
-
-2. Data Processing
-Extracted months from date values.
-
-Created age groups from the customer age data for further analysis.
-
-3. Data Analysis
-Used Pivot Tables to create insightful visualizations.
-Charts were created to represent various data aspects:
-Bar Chart for monthly sales and orders comparison.
-Pie Chart to analyze sales distribution between men and women.
-Line and column charts for detailed trends analysis.
-
-4. Dashboard Creation
-Developed an interactive dashboard connected with slicers to filter data by:
-Months
-Selling Channels
-Product Categories
-
-Key Insights
-Women contributed to ~65% of total sales.
-Maharashtra, Karnataka, and Uttar Pradesh were the top three states driving sales.
-Customers in the 30-49 age group made up ~50% of total sales.
-Amazon, Flipkart, and Myntra were the top-performing channels contributing the most to sales.
-
-Conclusion & Recommendations
-
-To increase sales, it is recommended to target women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh with personalized marketing campaigns, offers, and coupons on platforms like Amazon, Flipkart, and Myntra.
